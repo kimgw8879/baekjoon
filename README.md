@@ -1,2 +1,1 @@
-# baekjoon
-백준 문제 풀이
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=js060409)](https://solved.ac/kimgw8879/)
